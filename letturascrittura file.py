@@ -14,5 +14,5 @@ for l in linee:
     lista.extend(l.split(" "))
 
 for k in range(0,(len(lista)-1)):
-    print(lista(k))
+    print(lista[k])
 
